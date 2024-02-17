@@ -1,5 +1,5 @@
 # Data Scientist
-Technical Skills: Python, R, SQL, Tableau, MATLAB
+Technical Skills: Python,Deep Learning, LLM, R, SQL, Tableau, MATLAB
 
 ##  Work Experience:
 ### Primary Patent Examiner GS 14| US Patent and Trademark Office | Alexandria, VA | May 2012-Present
