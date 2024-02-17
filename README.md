@@ -32,9 +32,9 @@ Interactive data visualization of California wildfire | August 2022-December 202
 •	Implemented filtering capability for user-friendly exploration of relevant statistics.
 •	Investigated wildfire occurrence trend and correlation between variables. 
 ## Education:
-### Master of Science in Data Analytics | Georgia Institute of Technology | Atlanta, GA | December 2023
+### Master of Science in Data Analytics | Georgia Institute of Technology | Atlanta, GA | December 2023.
 •	Concentration on Computational Data Analytics.
 •	Relevant courses: Statistics, Deep Learning, Machine Learning, Reinforcement Learning, Natural Language Processing, Data & Visual Analytics, Business Data Analytics.
 ### Master of Science in Mechanical Engineering | Georgia Institute of Technology | Atlanta, GA | December 2011
 •	Concentration on System Dynamics and Control Design.
-### Bachelor of Science in Mechanical Engineering | Georgia Institute of Technology | Atlanta, GA | May 2010
+### Bachelor of Science in Mechanical Engineering | Georgia Institute of Technology | Atlanta, GA | May 2010.
