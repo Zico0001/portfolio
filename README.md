@@ -38,4 +38,3 @@ Interactive data visualization of California wildfire | August 2022-December 202
 ### Master of Science in Mechanical Engineering | Georgia Institute of Technology | Atlanta, GA | December 2011
 •	Concentration on System Dynamics and Control Design.
 ### Bachelor of Science in Mechanical Engineering | Georgia Institute of Technology | Atlanta, GA | May 2010
-![image](https://github.com/Zico0001/portfolio/assets/89327309/1a9e4649-0f7b-407a-adbf-994e2c1c7d3d)
