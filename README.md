@@ -31,13 +31,6 @@ Interactive data visualization of California wildfire | August 2022-December 202
 •	Created an interactive data visualization dashboard of wildfires in California using Tableau.
 •	Implemented filtering capability for user-friendly exploration of relevant statistics.
 •	Investigated wildfire occurrence trend and correlation between variables. 
-Skills:
-•	Programming Languages: Python, NumPy, Pandas, TensorFlow, Keras, Scikit-learn, xGBoost,  PyTorch, NLTK, SpaCy, OpenCV, Flask, PySpark, R, MySQL, SQLITE.
-•	Tools: Tableau, OpenRefine, Git, Microsoft Excel, Jupyter Notebook, Docker.
-•	Data Analysis: Data Mining, Data Wrangling, Machine Learning, Deep Learning, NLP, Reinforcement Learning.
-•	Statistics: Statistical Inference, Experimentation, Regression Models, Predictive Models, A/B Testing.
-•	Interactive Data Visualization: Tableau, Shiny, ggplot, JavaScript.
-•	Cloud Platforms: GCP, Colab, AWS
 ## Education:
 ### Master of Science in Data Analytics | Georgia Institute of Technology | Atlanta, GA | December 2023
 •	Concentration on Computational Data Analytics.
