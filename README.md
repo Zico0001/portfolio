@@ -2,16 +2,10 @@
 ### Technical Skills: Python, R, PyTorch, NLP, Tableau, SQL.
 
 ## Education:
-### Master of Science in Data Analytics | Georgia Institute of Technology | Atlanta, GA | December 2023.
+M.S., Data Analytics | Georgia Institute of Technology (December 2023)
+M.S., Mechanical Engineering | Georgia Institute of Technology (December 2011)
+B.S., Physics | Georgia Institute of Technology (May 2010)
 
-•	Concentration on Computational Data Analytics.
-•	Relevant courses: Statistics, Deep Learning, Machine Learning, Reinforcement Learning, Natural Language Processing, Data & Visual Analytics, Business Data Analytics.
-
-### Master of Science in Data Analytics | Georgia Institute of Technology | Atlanta, GA | December 2023.
-
-•	Concentration on System Dynamics and Control Design.
-
-### Bachelor of Science in Mechanical Engineering | Georgia Institute of Technology | Atlanta, GA | May 2010.
 
 ## Projects:
 
