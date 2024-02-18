@@ -1,5 +1,15 @@
 # Data Scientist
+### Technical Skills: Python, R, PyTorch, NLP, Tableau, SQL.
 
+## Education:
+### Master of Science in Data Analytics | Georgia Institute of Technology | Atlanta, GA | December 2023.
+
+•	Concentration on Computational Data Analytics.
+•	Relevant courses: Statistics, Deep Learning, Machine Learning, Reinforcement Learning, Natural Language Processing, Data & Visual Analytics, Business Data Analytics.
+
+### Master of Science in Data Analytics | Georgia Institute of Technology | Atlanta, GA | December 2023.
+
+•	Concentration on System Dynamics and Control Design.
 
 ## Projects:
 
