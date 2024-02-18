@@ -5,7 +5,9 @@
 
 ### Practicum Project Intern | Beep, Inc | Lake Nona, FL |August 2023-December 2023
 •	Built a customized, cost-effective virtual assistant Chatbot using the open-source LLMA2 model and FAISS database.
+
 •	Engineered prompts for improved and accurate responses.
+
 •	Auto-Generated paraphrased prompts using Pegasus LLM to test robustness.
 •	Refactored and added memory to LLM using Lang Chain, reducing the response time from ~19s to ~2s
 ### Visual Question Answering using Deep learning | January 2023-May 2023
