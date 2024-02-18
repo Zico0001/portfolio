@@ -13,7 +13,7 @@
 
 ## Projects:
 
-### Practicum Project Intern | Beep, Inc | Lake Nona, FL |August 2023-December 2023
+### LLM Project Intern | Beep, Inc | Lake Nona, FL |August 2023-December 2023
 
 •	Built a customized, cost-effective virtual assistant Chatbot using the open-source LLMA2 model and FAISS database.
 
