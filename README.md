@@ -11,6 +11,8 @@
 
 •	Concentration on System Dynamics and Control Design.
 
+### Bachelor of Science in Mechanical Engineering | Georgia Institute of Technology | Atlanta, GA | May 2010.
+
 ## Projects:
 
 ### LLM Project Intern | Beep, Inc | Lake Nona, FL |August 2023-December 2023
