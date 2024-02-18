@@ -3,9 +3,7 @@
 
 ## Education:
 M.S., Data Analytics | Georgia Institute of Technology (December 2023)
-
 M.S., Mechanical Engineering | Georgia Institute of Technology (December 2011)
-
 B.S., Mechanical Engineering| Georgia Institute of Technology (May 2010)
 
 
